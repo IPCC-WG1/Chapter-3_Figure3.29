@@ -9,6 +9,7 @@ A metadata file: Fig3-29_md
 
 SUBDIRECTORIES:
 I ./OBS/
+
 The Observed data is from the Assessed thermosteric sea level change data (from Chapter 2) - a csv file:
 AR6_FGD_AssessmentTimeseriesThSL.csv
 
@@ -17,6 +18,7 @@ ThSL_Observed_AR6_FGD_Assessment_Timeseries.nc
 
 
 II ./SCRIPTS/
+
 The following 4 .py files that were created to process and plot the zostoga variable files
 for the CMIP6 historical experiment and DAMIP experiments.
 
